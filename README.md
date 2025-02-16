@@ -1,6 +1,6 @@
 # QR Code Generator 📷
 
-Un petit script Python permettant de générer des QR Codes pour :  
+Un script Python permettant de générer des QR Codes pour :  
 ✅ Un **lien URL**  
 ✅ Une **connexion Wi-Fi automatique**  
 
@@ -42,8 +42,8 @@ generate_wifi_qr("NomDuReseau", "MotDePasse")
 
 Une fois les fonctions exécutées l'arborescence du projet sera la suivante :   
 
-📁 QRCodeGenerator
- ├── qrcode_generator.py  # Script principal
- ├── README.md            # Documentation
- ├── testurl.png          # QR Code pointant vers une URL
- ├── wifi_qr.png          # QR Code Wi-Fi
+📁 QRCodeGenerator  
+ ├── qrcode_generator.py  # Script principal  
+ ├── README.md            # Documentation  
+ ├── testurl.png          # QR Code pointant vers une URL  
+ ├── wifi_qr.png          # QR Code Wi-Fi  
